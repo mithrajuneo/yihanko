@@ -15,3 +15,8 @@ Hooks are applied at runtime using LSPosed without modifying the target APK.
 - Rooted Android device
 - LSPosed (Zygisk)
 - Android 8.0+ (sdk26 ~ )
+
+## Copyright
+MIT License
+Copyright (c) 2026 **정준혁**
+Permission is hereby granted, free of charge, to any person obtaining a copy...
